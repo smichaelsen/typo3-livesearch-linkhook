@@ -1,0 +1,16 @@
+{
+	"name": "smichaelsen/livesearch-linkhook",
+	"authors": [
+		{
+			"name": "Sebastian Michaelsen",
+			"email": "sebastian@app-zap.de",
+			"role": "developer"
+		}
+	],
+	"type": "typo3-cms-extension",
+	"autoload": {
+		"psr-4": {
+			"Smichaelsen\\LivesearchLinkhook\\": "Classes/"
+		}
+	}
+}
